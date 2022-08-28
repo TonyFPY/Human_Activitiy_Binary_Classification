@@ -13,4 +13,4 @@ Several models were adopted to make comparisons:
 - Multi-layer Perceptron
 - Threshold (Non-maching-learning approach)
 
-![](./graph/data.png)
+![](./graph/data.png){ width=50% }
